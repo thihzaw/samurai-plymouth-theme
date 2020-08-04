@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Samurai
+Description=A Plymouth theme Samurai Style.
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/samurai
+ScriptFile=/usr/share/plymouth/themes/samurai/samurai.script
